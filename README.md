@@ -1,4 +1,4 @@
-### Simple Calculator
+# Simple Calculator
 *This project is a prelim exam output in my CC12 course*
 
 ## Introduction
@@ -10,7 +10,7 @@ This project comprises of basic arithmetic operations (addition, subtraction, mu
 * Capable of clearing and all clearing functions
 * Accepts long numbers except those with decimal points
 * Minimalistic look because of the plain black and white color
-* Uses Java Swing and AWT (which are part of the Java Foundational Classes) as the main concept behind the UI. 
+* Uses Java Swing and AWT (which are part of the Java Foundational Classes) as the main components behind the UI. 
 
 ## Screenshots
 
